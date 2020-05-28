@@ -109,3 +109,11 @@ body {
   background-position: center;
   background-repeat: no-repeat;
 }
+
+.tod-bg-1 {
+  background: url("../../assets/kartu-truth.png");
+}
+
+.tod-bg-2 {
+  background: url("../../assets/kartu-dare.png");
+}
