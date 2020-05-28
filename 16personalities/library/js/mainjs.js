@@ -6,7 +6,7 @@ $('#exampleModal').modal({
 
 //---------- Library: Plotly
 
-Plotly.d3.csv('https://raw.githubusercontent.com/eksplorasi/eksplorasi.github.io/master/16personalities/dataset/personalitiestreemap.csv', function (err, rows) {
+Plotly.d3.csv('https://raw.githubusercontent.com/nicevizual/nicevizual.github.io/master/16personalities/dataset/personalitiestreemap.csv', function (err, rows) {
   function unpack(rows, key) {
     return rows.map(function (row) {
       return row[key]
