@@ -1,0 +1,97 @@
+body {
+  background-color: #101117 !important;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.container {
+  /* 720 */
+  /* max-width: 960px; */
+  /* margin: auto; */
+  /* padding: 0 30px; */
+}
+
+.flex-container {
+  display: flex;
+  /* flex-flow: column wrap; */
+  justify-content: center;
+  /* align-items: stretch; */
+  /* align-content: space-between; */
+  /* height: 550px; */
+}
+
+.unone {
+  user-select: none;
+}
+
+/* Modal Bootstrap */
+
+.img-modal {
+  width: 100%;
+  height: 100%;
+}
+
+.modal-dialog {
+  width: 360px;
+
+  /* ON Untuk Posisi Tengah */
+  margin-left: auto;
+  margin-right: auto;
+
+  min-height: calc(100vh - 60px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: auto;
+
+  @media(max-width: 768px) {
+    min-height: calc(100vh - 20px);
+  }
+}
+
+.modal-header {
+  background-color: #337AB7;
+  padding: 16px 16px;
+  color: #FFFFFF;
+  border-bottom: 2px dashed #337AB7;
+}
+
+.text-modal {
+  font-family: Helvetica, sans-serif;
+}
+
+/* Random Quote Generator with No-Repeat */
+
+.quote-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #F9F9F9;
+
+  width: 360px;
+  height: 200px;
+  border-radius: 8px;
+  padding: 22px 16px 0px 16px;
+
+  background: url("../../assets/kartu.png");
+  /* Strecth Mode */
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#generate-quote {
+  width: 360px;
+
+  background: #00CC96;
+  margin-top: 16px;
+  margin-bottom: 24px;
+}
+
+.quote {
+  font-size: 18px;
+}
+
+.author {
+  font-size: 14px;
+}

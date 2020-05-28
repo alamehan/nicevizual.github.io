@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- "Default" Meta dibawah ini penting, salahsatunya untuk keperluan Responsive -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="library/css/bootstrap.min.css" rel="stylesheet">
+  <link href="library/css/maincss.css" rel="stylesheet">
+  <script type="text/javascript" src="library/js/Winwheel.min.js"></script>
+  <script type="text/javascript" src="library/js/TweenMax.min.js"></script>
+  <title>Gabut Solver</title>
+</head>
+
+<body>
+  <div class="container-fluid">
+    <!-- Auto Popup Modal Section -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+      aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">Info</h5><button type="button" class="close"
+              data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;
+              </span></button>
+          </div>
+          <div class="modal-body">
+            <div class="mb-2">Untuk kamu yang lagi gabut dang bingung mau ngapain, <b><i>Gabut Solver</i></b> punya
+              <span style="color: #37CBA1;"><b>32 daftar
+                  aktifitas</b></span> seru yang bisa kamu lakukan saat ini juga. Selamat mencoba!</div>
+          </div>
+          <div class="modal-footer"><button type="button" class="btn btn-primary" data-dismiss="modal">OK</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Logo Section -->
+    <div class="flex-container">
+      <img src="nicevizual-logo.svg" class="unone mt-4 mb-3">
+    </div>
+    <!-- Spin Wheel Setion -->
+    <div class="flex-container d-none">
+      <div class="power_controls">
+        <table class="power" cellpadding="10" cellspacing="0">
+          <tr>
+            <th>Power</th>
+          </tr>
+          <tr>
+            <td width="78" id="pw3" onClick="powerSelected(3);">High</td>
+          </tr>
+          <tr>
+            <td id="pw2" onClick="powerSelected(2);">Med</td>
+          </tr>
+          <tr>
+            <td id="pw1" onClick="powerSelected(1);">Low</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+    <div class="flex-container" style="margin-top: -6px;">
+      <table cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td width="438" height="462" class="the_wheel" valign="center">
+            <canvas id="canvas" width="434" height="462">
+              <p style="{color: white}">Browser gak <i>support</i>.</p>
+            </canvas>
+          </td>
+        </tr>
+      </table>
+    </div>
+    <div class="flex-container" style="margin-top: -16px; margin-bottom: 12px;">
+      <img id="spin_button" src="assets/spin_off.png" alt="Spin" onClick="startSpin();" />
+      <div class="mx-2"></div>
+      <img src="assets/mainlagi.png" onClick="resetWheel(); return false;" />
+    </div>
+    <!-- Footer Section -->
+    <div class="mb-3 text-center" style="color: #636363;">
+      <div><b>References :</b> cci.health.wa.gov.au</div>
+      <div><b>Other Projects :</b> alamehan.github.io</div>
+    </div>
+  </div>
+
+  <script src="library/js/jquery-3.4.1.slim.min.js"></script>
+  <script src="library/js/popper.min.js"></script>
+  <script src="library/js/bootstrap.min.js"></script>
+  <script src="library/js/mainjs.js"></script>
+</body>
+
+</html>

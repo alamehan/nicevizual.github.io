@@ -1,0 +1,805 @@
+ids,values,text,labels,parents
+Ori-Personalities,100,,16 Personalities,
+Ori-Artisans,100,,Artisans : Tactical & Courageous,Ori-Personalities
+Ori-Guardians,100,,Guardians : Logistical & Hard Working,Ori-Personalities
+Ori-Rationals,100,,Rationals : Stategic & See The Big Picture,Ori-Personalities
+Ori-Idealist,100,,Idealist : Diplomatic & Compassionate,Ori-Personalities
+Ori-ISTP,100,,ISTP : The Craftsman,Ori-Artisans
+Ori-ESTP,100,,ESTP : The Doer,Ori-Artisans
+Ori-ISFP,100,,ISFP : The Artist,Ori-Artisans
+Ori-ESFP,100,,ESFP : The Performer,Ori-Artisans
+Ori-ISTJ,100,,ISTJ : The Inspector,Ori-Guardians
+Ori-ESTJ,100,,ESTJ : The Supervisor,Ori-Guardians
+Ori-ISFJ,100,,ISFJ : The Nurturer,Ori-Guardians
+Ori-ESFJ,100,,ESFJ : The Caregiver,Ori-Guardians
+Ori-ENTP,100,,ENTP : The Inventor,Ori-Rationals
+Ori-INTP,100,,INTP : The Scientist,Ori-Rationals
+Ori-ENTJ,100,,ENTJ : The CEO,Ori-Rationals
+Ori-INTJ,100,,INTJ : The Mastermind,Ori-Rationals
+Ori-ENFP,100,,ENFP : The Discoverer,Ori-Idealist
+Ori-INFP,100,,INFP : The Idealist,Ori-Idealist
+Ori-ENFJ,100,,ENFJ : The Mentor,Ori-Idealist
+Ori-INFJ,100,,INFJ : The Counselor,Ori-Idealist
+Ori-A1,100,,Description,Ori-ISTP
+Ori-A2,100,,Characteristics,Ori-ISTP
+Ori-A3,100,,Possible Careers,Ori-ISTP
+Ori-A4,100,,Famous People,Ori-ISTP
+Ori-A5,100,,Types in Quote,Ori-ISTP
+Ori-A6,100,,Fun Fact,Ori-ISTP
+Ori-B1,100,,Description,Ori-ESTP
+Ori-B2,100,,Characteristics,Ori-ESTP
+Ori-B3,100,,Possible Careers,Ori-ESTP
+Ori-B4,100,,Famous People,Ori-ESTP
+Ori-B5,100,,Types in Quote,Ori-ESTP
+Ori-B6,100,,Fun Fact,Ori-ESTP
+Ori-C1,100,,Description,Ori-ISFP
+Ori-C2,100,,Characteristics,Ori-ISFP
+Ori-C3,100,,Possible Careers,Ori-ISFP
+Ori-C4,100,,Famous People,Ori-ISFP
+Ori-C5,100,,Types in Quote,Ori-ISFP
+Ori-C6,100,,Fun Fact,Ori-ISFP
+Ori-D1,100,,Description,Ori-ESFP
+Ori-D2,100,,Characteristics,Ori-ESFP
+Ori-D3,100,,Possible Careers,Ori-ESFP
+Ori-D4,100,,Famous People,Ori-ESFP
+Ori-D5,100,,Types in Quote,Ori-ESFP
+Ori-D6,100,,Fun Fact,Ori-ESFP
+Ori-E1,100,,Description,Ori-ISTJ
+Ori-E2,100,,Characteristics,Ori-ISTJ
+Ori-E3,100,,Possible Careers,Ori-ISTJ
+Ori-E4,100,,Famous People,Ori-ISTJ
+Ori-E5,100,,Types in Quote,Ori-ISTJ
+Ori-E6,100,,Fun Fact,Ori-ISTJ
+Ori-F1,100,,Description,Ori-ESTJ
+Ori-F2,100,,Characteristics,Ori-ESTJ
+Ori-F3,100,,Possible Careers,Ori-ESTJ
+Ori-F4,100,,Famous People,Ori-ESTJ
+Ori-F5,100,,Types in Quote,Ori-ESTJ
+Ori-F6,100,,Fun Fact,Ori-ESTJ
+Ori-G1,100,,Description,Ori-ISFJ
+Ori-G2,100,,Characteristics,Ori-ISFJ
+Ori-G3,100,,Possible Careers,Ori-ISFJ
+Ori-G4,100,,Famous People,Ori-ISFJ
+Ori-G5,100,,Types in Quote,Ori-ISFJ
+Ori-G6,100,,Fun Fact,Ori-ISFJ
+Ori-H1,100,,Description,Ori-ESFJ
+Ori-H2,100,,Characteristics,Ori-ESFJ
+Ori-H3,100,,Possible Careers,Ori-ESFJ
+Ori-H4,100,,Famous People,Ori-ESFJ
+Ori-H5,100,,Types in Quote,Ori-ESFJ
+Ori-H6,100,,Fun Fact,Ori-ESFJ
+Ori-I1,100,,Description,Ori-ENTP
+Ori-I2,100,,Characteristics,Ori-ENTP
+Ori-I3,100,,Possible Careers,Ori-ENTP
+Ori-I4,100,,Famous People,Ori-ENTP
+Ori-I5,100,,Types in Quote,Ori-ENTP
+Ori-I6,100,,Fun Fact,Ori-ENTP
+Ori-J1,100,,Description,Ori-INTP
+Ori-J2,100,,Characteristics,Ori-INTP
+Ori-J3,100,,Possible Careers,Ori-INTP
+Ori-J4,100,,Famous People,Ori-INTP
+Ori-J5,100,,Types in Quote,Ori-INTP
+Ori-J6,100,,Fun Fact,Ori-INTP
+Ori-K1,100,,Description,Ori-ENTJ
+Ori-K2,100,,Characteristics,Ori-ENTJ
+Ori-K3,100,,Possible Careers,Ori-ENTJ
+Ori-K4,100,,Famous People,Ori-ENTJ
+Ori-K5,100,,Types in Quote,Ori-ENTJ
+Ori-K6,100,,Fun Fact,Ori-ENTJ
+Ori-L1,100,,Description,Ori-INTJ
+Ori-L2,100,,Characteristics,Ori-INTJ
+Ori-L3,100,,Possible Careers,Ori-INTJ
+Ori-L4,100,,Famous People,Ori-INTJ
+Ori-L5,100,,Types in Quote,Ori-INTJ
+Ori-L6,100,,Fun Fact,Ori-INTJ
+Ori-M1,100,,Description,Ori-ENFP
+Ori-M2,100,,Characteristics,Ori-ENFP
+Ori-M3,100,,Possible Careers,Ori-ENFP
+Ori-M4,100,,Famous People,Ori-ENFP
+Ori-M5,100,,Types in Quote,Ori-ENFP
+Ori-M6,100,,Fun Fact,Ori-ENFP
+Ori-N1,100,,Description,Ori-INFP
+Ori-N2,100,,Characteristics,Ori-INFP
+Ori-N3,100,,Possible Careers,Ori-INFP
+Ori-N4,100,,Famous People,Ori-INFP
+Ori-N5,100,,Types in Quote,Ori-INFP
+Ori-N6,100,,Fun Fact,Ori-INFP
+Ori-O1,100,,Description,Ori-ENFJ
+Ori-O2,100,,Characteristics,Ori-ENFJ
+Ori-O3,100,,Possible Careers,Ori-ENFJ
+Ori-O4,100,,Famous People,Ori-ENFJ
+Ori-O5,100,,Types in Quote,Ori-ENFJ
+Ori-O6,100,,Fun Fact,Ori-ENFJ
+Ori-P1,100,,Description,Ori-INFJ
+Ori-P2,100,,Characteristics,Ori-INFJ
+Ori-P3,100,,Possible Careers,Ori-INFJ
+Ori-P4,100,,Famous People,Ori-INFJ
+Ori-P5,100,,Types in Quote,Ori-INFJ
+Ori-P6,100,,Fun Fact,Ori-INFJ
+Ori-A1-Sub,100,,"Introverted Sensing Thinking Perceiving (ISTP)<br><br>
+
+Acronym :  I See The Problem<br><br>
+
+ISTP's excel at analyzing situations to reach the<br>
+heart of a problem so that they can swiftly implement<br>
+a functional repair, making them ideally suited<br>
+to the field of engineering.<br><br>
+
+ISTP's are often capable of humorously insightful<br>
+observations about the world around them.<br><br>
+
+ISTP's may sometimes seem to act without<br>
+regard for procedures, directions, protocol, or even<br>
+their own safety. But while their approach may seem<br>
+haphazard, it is in fact based on a broad store<br>
+of knowledge developed over time.",Ori-A1
+Ori-A2-Sub,100,,"Motto : Working with facts and hands<br><br>
+
+Compelled to understand how things work.<br>
+Are loyal to their causes and beliefs.<br>
+Like to be up and about, doing things.<br>
+ISTPs are excellent in a crisis situations.",Ori-A2
+Ori-A3-Sub,100,,"Construction, Electrician,<br>
+Factory Worker, Mechanic,<br>
+Military, Pilot<br><br>
+
+More (The Builder) :<br>
+Carpenter, Commercial Artist,<br>
+Firefighter, Geologist,<br>
+Mechanic, Surveyor,<br>
+Intelligence Agent",Ori-A3
+Ori-A4-Sub,100,,"Amelia Earhart, Christian Bale,<br>
+Chuck Yeager, Clint Eastwood,<br>
+Demi Moore, Eazy-E,<br>
+Harrison Ford, Sally Ride,<br>
+Simon Cowell, Steve Jobs,<br>
+Tom Cruise, Venus Williams,<br>
+Vladimir Putin",Ori-A4
+Ori-A5-Sub,100,,"If at first you don't succeed, try, try<br>
+again. Then quit. There's no point<br>
+in being a damn fool about it.<br><br>
+
+- W.C. Fields",Ori-A5
+Ori-A6-Sub,100,,,Ori-A6
+Ori-B1-Sub,100,,"Extraverted Sensing Thinking Perceiving (ESTP)<br><br>
+
+Acronym : Extraordinarily Smooth Talking Persuader<br><br>
+
+ESTP's are hands-on learners who live in the moment,<br>
+seeking the best in life, wanting to share<br>
+it with their friends.<br><br>
+
+ESTP's are high energy extroverts who maximize each<br>
+moment to get the best out of life. They are gregarious<br>
+and sociable which often makes them the center or<br>
+attention whether they are at work or a social event.<br><br>
+
+An ESTP will be a natural group leader who can quickly<br>
+identify the strengths and weaknesses<br>
+of each member of their team.",Ori-B1
+Ori-B2-Sub,100,,"Motto : Focus on the here and now<br><br>
+
+ESTPs are outgoing, straight-shooting types.<br>
+Live in the world of action.<br>
+Place little importance on theory.<br>
+Are action-oriented, make decisions quickly.<br>",Ori-B2
+Ori-B3-Sub,100,,"Construction Worker,<br>
+Entrepeneur, Firefighter,<br>
+Paramedic, Sales<br><br>
+
+More (The Doer) :<br>
+Entrepreneur, Pilot,<br>
+Police Officer, Pro Athlete,<br>
+General Contractor, Promoter,<br>
+Stockbroker",Ori-B3
+Ori-B4-Sub,100,,"Al Capone, Alexander the Great,<br>
+Donald Trump, Epicurus,<br>
+Franklin Roosevelt, Kevin Spacey,<br>
+L. Ron Hubbard, Madonna,<br>
+Malcolm X, Mike Tyson,<br>
+Milla Jovovich, Winston Churchill",Ori-B4
+Ori-B5-Sub,100,,"Action may not always bring<br>
+happiness, but there is no<br>
+happiness without action.<br><br>
+
+- William James",Ori-B5
+Ori-B6-Sub,100,,,Ori-B6
+Ori-C1-Sub,100,,"Intoverted Sensing Feeling Perceiving (ISFP)<br><br>
+
+Acronym : I'm Sincerely Fulfilling my Purpose<br><br>
+
+ISFP's are peaceful, easygoing people who adopt a<br>
+""live and let live"" approach to life. They enjoy<br>
+taking things at their own pace and<br>
+tend to live in the moment.<br><br>
+
+ISFP's are difficult to build a close relationship with.<br>
+They usually have a small circle of friends and<br>
+family who they have had relationships with<br>
+over long periods of time.<br><br>
+
+They excel in positions where they can follow<br>
+their own personal value system while<br>
+also expressing themselves creatively.",Ori-C1
+Ori-C2-Sub,100,,"Motto : Marching to a different drummer<br><br>
+
+Keenly in tune with the outside world.<br>
+Kind and sensitive with regard to others.<br>
+Truly appreciate the beauties of nature.<br>
+ISFPs are action-oriented individuals.<br>",Ori-C2
+Ori-C3-Sub,100,,"Designer, Elementary,<br>
+Teacher, Musician,<br>
+Nurse, Social Worker<br><br>
+
+More (The Artist) :<br>
+Archaeologist, Dancer,<br>
+Forestry, Painter,<br>
+Beautician, Chef,<br>
+Landscape Architect",Ori-C3
+Ori-C4-Sub,100,,"Audrey Hepburn, Christopher Reeve,<br>
+David Beckham, Elizabeth Taylor,<br>
+Heath Ledger, Jacqueline Kennedy Onassis,<br>
+Jessica Alba, Marie Antoinette,<br>
+Marilyn Monroe, Mark McGwire,<br>
+Michael Jackson, Neil Simon,<br>
+Paul McCartney, Prince,<br>
+Ulysses S. Grant",Ori-C4
+Ori-C5-Sub,100,,"Sometimes its not there strength<br>
+but gentleness that cracks<br>
+the hardest shells.<br><br>
+
+- Richard Paul Evans",Ori-C5
+Ori-C6-Sub,100,,,Ori-C6
+Ori-D1-Sub,100,,"Extraverted Sensing Feeling Perceiving (ESFP)<br><br>
+
+Acronym : Entertaining, Sparkly, Friendly Person<br><br>
+
+ESFP's live in the moment, experiencing life to<br>
+the fullest. They enjoy people, as well<br>
+as material comforts.<br><br>
+
+Rarely allowing conventions to interfere with<br>
+their lives, they find creative ways to<br>
+meet human needs. <br><br>
+
+Observant, practical, realistic, and specific, ESFP's<br>
+make decisions according to their own personal<br>
+standards. They use their Feeling judgment<br>
+internally to identify and empathize with others.<br>
+Naturally attentive to the world around them.",Ori-D1
+Ori-D2-Sub,100,,"Motto : If there's no excitement, we'll create it<br><br>
+
+Love people and new experiences.<br>
+Also like to have fun.<br>
+Warm and generous with their friends.<br>
+Have a great love for life.<br>",Ori-D2
+Ori-D3-Sub,100,,"Actor, Coach, Receptionist,<br>
+Painter, Personal Trainer,<br>
+Salesperson<br><br>
+
+More (The Performer) :<br>
+Film Producer, Sales Rep,<br>
+Stockbroker, Waiter/Waitress,<br>
+Travel Agent, Real Estate Agent,<br>
+Receptionist",Ori-D3
+Ori-D4-Sub,100,,"Andy Sandberg, Benito Mussolini,<br>
+Bill Clinton, Chloe Grace Moretz,<br>
+Deepak Chopra, John F. Kennedy,<br>
+Katy Perry, Kyle Petty,<br>
+Michelangelo Buonarroti, Serena Williams,<br>
+Stephen Spielberg, Tony Robbins",Ori-D4
+Ori-D5-Sub,100,,"I just like having fun. And, you know,<br>
+sometimes i just like to present<br>
+myself in that fun energy.<br><br>
+
+- Katy Perry",Ori-D5
+Ori-D6-Sub,100,,,Ori-D6
+Ori-E1-Sub,100,,"Introverted Sensing Thinking Judging (ISTJ)<br><br>
+
+Acronym : I Suit Tax Jobs<br><br>
+
+ISTJ's thrive on organization. They keep their lives<br>
+and environments well-regulated. They bring<br>
+painstaking attention to detail in their work and<br>
+will not rest until a job is well completed.<br><br>
+
+ISTJ's are faithful, logical, organized, sensible,<br>
+and earnest traditionalists. They earn success<br>
+by thoroughness and dependability.<br><br>
+
+ISTJ's respect facts. They hold a tremendous<br>
+store of data within themselves, gathered<br>
+through their Sensing function.",Ori-E1
+Ori-E2-Sub,100,,"Motto : Organizing everything<br><br>
+
+ISTJs are loyal, faithful, and dependable.<br>
+Tend to believe in laws and traditions.<br>
+May have difficulty picking up emotions.<br>
+Want their personal lives to run smoothly.<br>",Ori-E2
+Ori-E3-Sub,100,,"Accountant, Dentist,<br>
+Math Teacher, Office Administrator,<br>
+Police<br><br>
+
+More (The Realist) :<br>
+Accountant, Government,<br>
+Military Officer, Auditor,<br>
+Business Analyst, Physician,<br>
+Librarian",Ori-E3
+Ori-E4-Sub,100,,"Condoleeza Rice, Evander Holyfield,<br>
+George Washington, Julia Roberts,<br>
+Pope Benedict, Queen Elizabeth II,<br>
+Richard Nixon, Robert De Niro,<br>
+Sigmund Freud, Sting,<br>
+Stonewall Jackson, Warren Buffett",Ori-E4
+Ori-E5-Sub,100,,"He who labors diligently need<br>
+never despair; for all things<br>
+are accomplished by<br>
+diligence and labor.<br><br>
+
+- Menander",Ori-E5
+Ori-E6-Sub,100,,,Ori-E6
+Ori-F1-Sub,100,,"Extraverted Sensing Thinking Judging (ESTJ)<br><br>
+
+Acronym : Elevated Stress Tightens Jaw<br><br>
+
+ESTJ's are practical, realistic, and matter-of-fact,<br>
+with a natural head for business or mechanics.<br><br>
+
+ESTJ's take a practical approach to life that is guided<br>
+by their matter-of-fact attitudes and focus on realism.<br>
+They recognize tradition and prefer order which<br>
+makes them strong leaders.<br><br>
+
+They abhor laziness and cheating, and instead stick<br>
+to their principles with unclouded judgment. They<br>
+are often described by others as charismatic,<br>
+focused and driven.",Ori-F1
+Ori-F2-Sub,100,,"Motto : Taking care of business<br><br>
+
+They naturally step into leadership roles.<br>
+Live in a world of facts and concrete needs.<br>
+The ESTJ is usually a model citizen.<br>
+Potential to become overly detail-oriented.<br>",Ori-F2
+Ori-F3-Sub,100,,"Business Administrator, Financial Officer,<br>
+Office Manager, Military<br><br>
+
+More (The Administrator) :<br>
+Bank Manager, Judge,<br>
+Lawyer, Prison Warden<br>
+Athletic Director, School principal,<br>
+Policeman",Ori-F3
+Ori-F4-Sub,100,,"Andrew Jackson, Ann Coulter,<br>
+Augusto Pinochet, Billy Graham,<br>
+Daisy Ridley, Henry<br>
+Ford, Hillary Clinton,<br>
+Ivanka Trump, John Smoltz,<br>
+Judge Judy, Martha Stewart,<br>
+Saddam Hussein",Ori-F4
+Ori-F5-Sub,100,,"In my mind nothing is more<br>
+abhorrent that a life of ease. ...<br>
+There is no place in civilization<br>
+for the idler.<br><br>
+
+- Henry Ford",Ori-F5
+Ori-F6-Sub,100,,,Ori-F6
+Ori-G1-Sub,100,,"Introverted Sensing Feeling Judging (ISFJ)<br><br>
+
+Acronym : I Serve my Family Joyfully<br><br>
+
+ISFJ's are interested in maintaining order and<br>
+harmony in every aspect of their lives. They are<br>
+steadfast and meticulous in handling<br>
+their responsibilities.<br><br>
+
+ISFJ's are warm-hearted and compassionate<br>
+individuals who are always thinking of<br>
+others before themselves.<br><br>
+
+Emotionally oriented, ISFJ's are sensitive<br>
+to other people's feelings and have a<br>
+deep understanding of their own.",Ori-G1
+Ori-G2-Sub,100,,"Motto : Meeting obligations<br><br>
+
+ISFJs want to believe the best of people.<br>
+Have a rich but hidden inner world.<br>
+ISFJs respect traditions and laws.<br>
+Do not usually express their own feelings.<br>",Ori-G2
+Ori-G3-Sub,100,,"Clergy, Interior Decorator,<br>
+Librarian, Nurse,<br>
+Office Administrator<br><br>
+
+More (The Protector) :<br>
+Historian, Nurse,<br>
+Minister, Paralegal,<br>
+Physical Therapist,<br>
+Teacher, Social Worker",Ori-G3
+Ori-G4-Sub,100,,"Jimmy Carter, Kate Middleton,<br>
+Rosa Parks, Mother Teresa,<br>
+Tiger Woods",Ori-G4
+Ori-G5-Sub,100,,"So long as we love we serve;<br>
+so long as we are loved by others,<br>
+i would almost say that we<br>
+are indispensable.<br><br>
+
+- Robert Louis Stevenson",Ori-G5
+Ori-G6-Sub,100,,,Ori-G6
+Ori-H1-Sub,100,,"Extraverted Sensing Feeling Judging (ESFJ)<br><br>
+
+Acronym : Especially Satisfied Fulfilling Jobs<br><br>
+
+ESFJ's focus on the outside world and assess<br>
+their experiences subjectively.<br><br>
+
+They largely base their judgments on their belief<br>
+system and on the effects of actions on people. ESFJ's<br>
+are literal and concrete, trusting the specific, factual<br>
+information gathered through their physiological senses.<br><br>
+
+ESFJ's project warmth through a genuine interest in<br>
+the well-being of others. They are often skilled at<br>
+bringing out the best in people, and they want<br>
+to understand other points of view.",Ori-H1
+Ori-H2-Sub,100,,"Motto : Getting things done<br><br>
+
+Are people persons - they love people.<br>
+Take their responsibilities very seriously.<br>
+Get satisfaction others' happiness.<br>
+Have a strong community-based moral code.<br>",Ori-H2
+Ori-H3-Sub,100,,"Nurse, Office Administrator,<br>
+Social Worker, Teacher<br><br>
+
+More (The Helper) :<br>
+Personal Trailer, Funeral Director,<br>
+Court Reporter, Athletic Coach,<br>
+Flight Attendant, Legal Assistant,<br>
+Childcare Provider",Ori-H3
+Ori-H4-Sub,100,,"Andrew Carnegie, Barbara Walters,<br>
+Desmond Tutu, Elton John,<br>
+Nancy Kerrigan, Prince William,<br>
+Pope Francis, Whitney Houston",Ori-H4
+Ori-H5-Sub,100,,"Happiness is only real<br>
+when it is shared.<br><br>
+
+- Jon Krakauer",Ori-H5
+Ori-H6-Sub,100,,,Ori-H6
+Ori-I1-Sub,100,,"Extraverted Intuitive Thinking Perceiving (ENTP)<br><br>
+
+Acronym : Every New Thought Propels<br><br>
+
+ENTP's are quick to see complex interrelationships<br>
+between people, things, and ideas and are able<br>
+to analyze these interrelationships in profound detail.<br><br>
+
+ENTP's are frequently described as clever, cerebrally<br>
+and verbally quick, enthusiastic, outgoing, innovative,<br>
+flexible, loyal and resourceful.<br><br>
+
+ENTP's are motivated by a desire to understand and<br>
+improve the world they live in. They are usually accurate<br>
+in sizing up a situation. They may have a perverse sense<br>
+of humor and sometimes play devil's advocate.",Ori-I1
+Ori-I2-Sub,100,,"Motto : One Idea After Another<br><br>
+
+Can see possibilities everywhere.<br>
+Size up situations quickly.<br>
+Love to debate ideas.<br>
+Able to spread their enthusiasm to others.<br>",Ori-I2
+Ori-I3-Sub,100,,"Engineer, Entrepeneur,<br>
+Inventor, Lawyer,<br>
+Scientist<br><br>
+
+More (The Inventor) :<br>
+Market Researcher, Venture Capitalist,<br>
+Strategic Planner, HR Manager,<br>
+Producer, City Planner,<br>
+Hotel Manager",Ori-I3
+Ori-I4-Sub,100,,"Amy Poehler, Barack Obama,<br>
+Ben Franklin, Harry Connick Jr,<br>
+Leonardo Da Vinci, Neil Patrick Harris,<br>
+Sir Walter Raleigh, Stephen Colbert,<br>
+Steve Wozniak, Theodore Roosevelt",Ori-I4
+Ori-I5-Sub,100,,"It is better to deabate a question<br>
+without settling it thatto settle<br>
+a question without debating it.<br><br>
+
+- Joseph Joubert",Ori-I5
+Ori-I6-Sub,100,,,Ori-I6
+Ori-J1-Sub,100,,"Introverted Intuitive Thinking Perceiving (INTP)<br><br>
+
+Acronym : I Need To Ponder<br><br>
+
+INTP's are quiet, thoughtful, analytical individuals<br>
+who tend to spend long periods of time on their own,<br>
+working through problems and forming solutions.<br><br>
+
+They generally balk at attempts by others to convince<br>
+them to change. They also tend to be impatient with<br>
+the bureaucracy, rigid hierarchies, and the politics<br>
+prevalent in many professions.<br><br>
+
+INTP's organize their understanding of any topic<br>
+by articulating principles, and they are especially<br>
+drawn to theoretical constructs.",Ori-J1
+Ori-J2-Sub,100,,"Motto : Always analytical<br><br>
+
+Live in the world of theoretical possibilities.<br>
+INTPs are driven to build knowledge.<br>
+Do not like to lead or control people.<br>
+Usually not in-tune with people's feelings.<br>",Ori-J2
+Ori-J3-Sub,100,,"Engineer, College Professor,<br>
+Psychologist, Researcher,<br>
+Scientist<br><br>
+
+More (The Scientist) :<br>
+College Professor, Mathematician,<br>
+Financial Analyst, Chemist,<br>
+Lawyer/Judge, Researcher,<br>
+Physicist",Ori-J3
+Ori-J4-Sub,100,,"Albert Einstein, Carl Jung,<br>
+Charles Darwin, Ellen Page,<br>
+George Soros, Jimmy Wales,<br>
+Larry Page, Liam Gallagher,<br>
+M.I.A, Thucydides,<br>
+Tina Fey",Ori-J4
+Ori-J5-Sub,100,,"If i had an hour to solve a problem<br>
+i'd spend 55 minutes thing about<br>
+the problem and 5 minutes<br>
+thingking about solutions.<br><br>
+
+- Albert Einstein",Ori-J5
+Ori-J6-Sub,100,,,Ori-J6
+Ori-K1-Sub,100,,"Extraverted Intuitive Thinking Judging (ENTJ)<br><br>
+
+Acronym : Executives Navigating Tough Jobs<br><br>
+
+ENTJ's focus on the most efficient and organized<br>
+means of performing a task. This quality, along<br>
+with their goal orientation, often makes ENTJ's<br>
+superior leaders, both realistic and visionary<br>
+in implementing a long-term plan.<br><br>
+
+ENTJ's tend to be fiercely independent in their<br>
+decision making, having a strong will that<br>
+insulates them against external influence.<br><br>
+
+Generally highly competent, ENTJ's analyze<br>
+and structure the world around them<br>
+in a logical brand rational way.",Ori-K1
+Ori-K2-Sub,100,,"Motto : To live is to lead<br><br>
+
+Are natural born leaders.<br>
+Dislike seeing mistakes repeated.<br>
+Are very forceful and decisive.<br>
+Love interacting with people.<br>",Ori-K2
+Ori-K3-Sub,100,,"Administrator, CEO,<br>
+Entrepreneur, Lawyer,<br>
+Judge, Manager<br><br>
+
+More (The Commander) :<br>
+CEO, Judge, Business Consultant,<br>
+Sales Manager, Actor,<br>
+Politician, Administrator",Ori-K3
+Ori-K4-Sub,100,,"Bill Gates, Carl Sagan,<br>
+Julius Caesar, Madeleine Albright,<br>
+Margaret Thatcher, Napoleon Bonaparte",Ori-K4
+Ori-K5-Sub,100,,"Live your vision and<br>
+demand your success.<br><br>
+
+- Steve Maraboli",Ori-K5
+Ori-K6-Sub,100,,,Ori-K6
+Ori-L1-Sub,100,,"Introverted Intuitive Thinking Judging (INTJ)<br><br>
+
+Acronym : It's Not Thoroughly Justified<br><br>
+
+INTJ's are analytical. They are most comfortable<br>
+working alone and tend to be less sociable<br>
+than other types.<br><br>
+
+They have a low tolerance for spin or rampant<br>
+emotionalism. They are not generally<br>
+susceptible to catchphrases and do<br>
+not recognize authority based on<br>
+tradition, rank, or title.<br><br>
+
+They harbor an innate desire to express themselves<br>
+by conceptualizing their own intellectual designs.<br>
+They have a talent for analyzing and<br>
+formulating complex theories.",Ori-L1
+Ori-L2-Sub,100,,"Motto : Can improve on anything<br><br>
+
+Value intelligence, knowledge and competence.<br>
+Focus on generating ideas and possibilities.<br>
+Not easy for the INTJ to express their insights.<br>
+Spend a lot of time inside their own minds.<br>",Ori-L2
+Ori-L3-Sub,100,,"Programmer, Scientist,<br>
+Corporate Strategist, Doctor,<br>
+Engineer<br><br>
+
+More (The Mastermind) :<br>
+Programmer, Scientist,<br>
+Database Admin, Astronomer,<br>
+Economist, Aerospace Engineer,<br>
+Financial Analyst",Ori-L3
+Ori-L4-Sub,100,,"Ayn Rand, Bobby Fischer,<br>
+Dwight D. Eisenhower,<br>
+Jane Austen, Jay Z,<br>
+Karl Marx, Mark Zuckerberg,<br>
+Martin Luther, Sir Isaac Newton,<br>
+Stephen Hawking",Ori-L4
+Ori-L5-Sub,100,,"There's always room for<br>
+improvement, you know -<br>
+it's the biggest room<br>
+in the house.<br><br>
+
+- Louise Heath Leber",Ori-L5
+Ori-L6-Sub,100,,,Ori-L6
+Ori-M1-Sub,100,,"Extraverted Intuitive Feeling Perceiving (ENFP)<br><br>
+
+Acronym : Eagerly Noting Fun Playgrounds<br><br>
+
+ENFP's are initiators of change, keenly perceptive<br>
+of possibilities. They energize and stimulate<br>
+others through their Contagious enthusiasm.<br><br>
+
+They prefer the start-up phase of a project or<br>
+relationship, and are tireless in the pursuit<br>
+of new-found interests.<br><br>
+
+ENFP's are able to anticipate the needs of others<br>
+and to offer them needed help and appreciation.<br>
+They bring zest, joy, liveliness, and fun to<br>
+all aspects of their lives.",Ori-M1
+Ori-M2-Sub,100,,"Motto : In search of myself<br><br>
+
+Have a broad range of skills and talents.<br>
+They are warm and interested in people.<br>
+They have a strong need to be independent.<br>
+Very passionate about things and ideas.<br>",Ori-M2
+Ori-M3-Sub,100,,"Actor, Counselor,<br>
+Journalist, Politician,<br>
+Teacher, Writer<br><br>
+
+More (The Champion) :<br>
+Charity Director, Character Actor,<br>
+Event Planner, Public Relations,<br>
+News Anchor, Spokesperson,<br>
+Journalist",Ori-M3
+Ori-M4-Sub,100,,"Ellen DeGeneres, George Carlin,<br>
+J.J. Abrams, Jennifer Anniston,<br>
+Jerry Seinfeld, Julian Assange,<br>
+Mark Twain, Orson Welles,<br>
+Salman Rushdie, Walt Disney",Ori-M4
+Ori-M5-Sub,100,,"Ideas can be life-changing. Sometimes<br>
+all you need to open the door is<br>
+just one more good idea.<br><br>
+
+- Jim Rohn",Ori-M5
+Ori-M6-Sub,100,,,Ori-M6
+Ori-N1-Sub,100,,"Introverted Intuitive Feeling Perceiving (INFP)<br><br>
+
+Acronym : Ideals Need Faithful Pursuit<br><br>
+
+The polite, reserved exterior of INFP's can at<br>
+firstmake them difficult to get to know. They<br>
+enjoy conversation, however, taking<br>
+particular delight in the unusual.<br><br>
+
+Devoted to those in their inner circle, INFP's<br>
+guard the emotional well-being of others,<br>
+consoling those in distress. Guided by their<br>
+desire for harmony, INFP's prefer to be flexible<br>
+unless their ethics are violated.<br><br>
+
+Though not always organized, INFP's are<br>
+meticulous about things they value.",Ori-N1
+Ori-N2-Sub,100,,"Motto : Pursuing ideals<br><br>
+
+Main goal is to find out their meaning in life.<br>
+Are good listeners and put people at ease.<br>
+Very high standards and are perfectionists.<br>
+Will fight passionately for their ""cause"".<br>",Ori-N2
+Ori-N3-Sub,100,,"Artist, Counselor,<br>
+Editor, Musician,<br>
+Political Activist, Teacher,<br>
+Writer<br><br>
+
+More (The Mediator) :<br>
+Missionary, Curator,<br>
+College Professor, Actor,<br>
+Composer, Teacher,<br>
+Counselor",Ori-N3
+Ori-N4-Sub,100,,"A. A. Milne, Albert Schweitzer,<br>
+Andy Warhol, Chloe Sevigny,<br>
+Chris Martin, Hellen Keller,<br>
+John Lennon, Kurt Cobain,<br>
+Tom Hiddleston, Vincent Van Gogh,<br>
+William Shakespeare",Ori-N4
+Ori-N5-Sub,100,,"If you light a lamp for somebody,<br>
+it will also brighten your path.<br><br>
+
+- Buddhist Saying",Ori-N5
+Ori-N6-Sub,100,,,Ori-N6
+Ori-O1-Sub,100,,"Extraverted Intuitive Feeling Judging (ENFJ)<br><br>
+
+Acronym : Everyone Needs Fulfillment & Joy<br><br>
+
+ENFJ's seek continuity through harmonious<br>
+relationships and collective values. The excel<br>
+at picking up on the tone of a situation and<br>
+acting accordingly, adding warmth to a<br>
+cool setting or turning sour into sweet.<br><br>
+
+They are natural cheerleaders, often expressing<br>
+support, gratitude, and encouragement, and<br>
+heaping praise onto those they appreciate.<br>
+They take note of what is being done and<br>
+what needs doing, offering their<br>
+assistance wherever necessary.",Ori-O1
+Ori-O2-Sub,100,,"Motto : An inspiration to others<br><br>
+
+Have many friends and close relationships.<br>
+Sensitive to those who feel excluded.<br>
+Enjoy organizing group activities.<br>
+Loyal and expect loyalty in return.<br>",Ori-O2
+Ori-O3-Sub,100,,"Business Consultant,<br>
+HR Manager, Teacher,<br>
+Writer<br><br>
+
+More (The Teacher) :<br>
+Recruiter, Teacher,<br>
+Consultant, Reporter,<br>
+Restaurant Manager, Translator,<br>
+Writer",Ori-O3
+Ori-O4-Sub,100,,"Bono, Martin Luther King Jr,<br>
+Nelson Mandela, Opra Winfrey,<br>
+Pope John Paul II",Ori-O4
+Ori-O5-Sub,100,,"Enthusiasm speels the difference<br>
+between mediocrity and<br>
+accomplishment.<br><br>
+
+- Normal Vincent Peale",Ori-O5
+Ori-O6-Sub,100,,,Ori-O6
+Ori-P1-Sub,100,,"Introverted Intuitive Feeling Judging (INFJ)<br><br>
+
+Acronym : Inner Nuances Foster Journeys<br><br>
+
+INFJ's are conscientious and value-driven. They<br>
+seek meaning in relationships, ideas, and events,<br>
+with an eye toward better understanding<br>
+themselves and others.<br><br>
+
+INFJ's are quiet, private individuals who prefer to<br>
+exercise their influence behind the scenes.<br><br>
+
+INFJ's have a rich, vivid inner life, which they may<br>
+be reluctant to share with those around them.<br>
+Abstract in communicating, they live in a<br>
+world of hidden meanings and possibilities.",Ori-P1
+Ori-P2-Sub,100,,"Motto : One cause after another<br><br>
+
+INFJs are gentle, caring and complex.<br>
+Have deep insight into people and situations.<br>
+As genuinely warm as they are complex.<br>
+INFJ are nurturers; patient and devoted.<br>",Ori-P2
+Ori-P3-Sub,100,,"Artist, Clergy,<br>
+Counselor, Photographer,<br>
+Teacher, Writer<br><br>
+
+More (The Advocate) :<br>
+Psychologist, Counselor,<br>
+Social Worker, Mediator,<br>
+Minister, Human Resources,<br>
+Massage Therapist",Ori-P3
+Ori-P4-Sub,100,,"Adolf Hitler, Alanis Morissette,<br>
+Jane Goodall, Leonard Cohen,<br>
+Ludwig Wittgenstein, Mahatma Gandhi,<br>
+Marilyn Manson, Martin Van Buren,<br>
+Noam Chomsky, Taylor Swift,<br>
+Thomas Jefferson",Ori-P4
+Ori-P5-Sub,100,,"If you have a dream, don't just sit there.<br>
+Gather courage to believe that you<br>
+can succeed and leave no stone<br>
+unturned to make it a reality.<br><br>
+
+- Roopleen",Ori-P5
+Ori-P6-Sub,100,,,Ori-P6

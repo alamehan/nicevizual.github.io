@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- "Default" Meta dibawah ini penting, salahsatunya untuk keperluan Responsive -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="library/css/bootstrap.min.css" rel="stylesheet">
+  <link href="library/css/maincss.css" rel="stylesheet">
+  <!-- <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Condensed:wght@400&display=swap"
+    rel="stylesheet"> -->
+  <title>Truth or Dare</title>
+</head>
+
+<body>
+  <div class="container-fluid">
+    <!-- Auto Popup Modal Section -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+      aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">Info</h5><button type="button" class="close"
+              data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;
+              </span></button>
+          </div>
+          <div class="modal-body">
+            <div class="mb-2 text-modal">Untuk kamu yang suka main Truth or Dare tetapi pertanyaan/perintahnya cuman
+              itu-itu aja, aplikasi ini punya <span style="color: #37CBA1;"><b>60 kartu truth & 60 kartu dare</b></span>
+              menarik yang siap kamu pakai. Selamat mencoba!</div>
+          </div>
+          <div class="modal-footer"><button type="button" class="btn btn-primary" data-dismiss="modal">OK</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Logo Section -->
+    <div class="flex-container">
+      <img src="nicevizual-logo.svg" class="unone mt-4 mb-3">
+    </div>
+    <!-- Head Section -->
+    <div class="text-center" style="color: #FCD36E; font-weight: 500;">Berikut 60 Kartu Truth & 60 Kartu Dare</div>
+    <!-- App Section -->
+    <div class="flex-container">
+      <!-- 
+        Vertically align text in textarea:
+        periksa di mainjs.js
+       -->
+      <textarea id="tod" type="text" class="ans" disabled style="color: #F9F9F9; font-weight: 500;"></textarea>
+    </div>
+    <div class="flex-container">
+      <button onclick="TruthF()" id="sikat1" class="btn btn_colorF">Truth</button>
+      <div class="mx-2"></div>
+      <button onclick="DareF()" id="sikat2" class="btn btn_colorW">Dare</button>
+    </div>
+    <!-- Footer Section -->
+    <div class="mt-4 mb-3 text-center" style="color: #636363;">
+      <div><b>References :</b> sumsel.tribunnews.com</div>
+      <div><b>Other Projects :</b> alamehan.github.io</div>
+    </div>
+  </div>
+
+  <script src="library/js/jquery-3.4.1.slim.min.js"></script>
+  <script src="library/js/popper.min.js"></script>
+  <script src="library/js/bootstrap.min.js"></script>
+  <script src="library/js/mainjs.js"></script>
+</body>
+
+</html>

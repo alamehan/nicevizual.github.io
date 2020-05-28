@@ -1,11 +1,81 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <!-- "Default" Meta dibawah ini penting, salahsatunya untuk keperluan Responsive -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Style Numpang Pake di Page Gabut Solver -->
+  <link href="gabutsolver/library/css/bootstrap.min.css" rel="stylesheet">
+  <link href="gabutsolver/library/css/maincss.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Condensed:wght@400&display=swap"
+    rel="stylesheet">
+  <!-- FontAwesome -->
+  <!-- 
+    Untuk latest version, periksa di web fontawesome, kemudian download file.js nya di link:
+    https://use.fontawesome.com/releases/v5.xx.x/js/all.js
+
+    Misal untuk versi 5.13.0 maka:
+    https://use.fontawesome.com/releases/v5.13.0/js/all.js
+
+    Selanjutnya pasang di (bawahs):
+    <script src="gabutsolver/library/js/font-awesome.js"></script>
+   -->
+  <title>NiceVizual</title>
 </head>
+
 <body>
-    Check First Commit
+  <div class="container-fluid">
+    <!-- Animation Background -->
+    <div class="cube"></div>
+    <div class="cube"></div>
+    <div class="cube"></div>
+    <div class="cube"></div>
+    <div class="cube"></div>
+    <div class="cube"></div>
+    <!-- Logo Section -->
+    <div class="flex-container">
+      <img src="gabutsolver/nicevizual-logo.svg" class="unone mt-4 mb-3">
+    </div>
+    <!-- Menu Section -->
+    <div class="container-fluid">
+      <div class="d-flex justify-content-center mb-2">
+        <button class="unone btn-ungu" onclick="window.open('16personalities/index.html')">
+          <h5 class="d-inline-flex"><i class="fas fa-users gaya-icon"></i> 16 Personalities</h5>
+        </button>
+      </div>
+      <div class="d-flex justify-content-center mb-2">
+        <button class="unone btn-ungu" onclick="window.open('gabutsolver/index.html')">
+          <h5 class="d-inline-flex"><i class="fas fa-fan gaya-icon"></i> Gabut Solver</h5>
+        </button>
+      </div>
+      <div class="d-flex justify-content-center mb-2">
+        <button class="unone btn-ungu" onclick="window.open('amilate/index.html')">
+          <h5 class="d-inline-flex"><i class="fas fa-hourglass-half gaya-icon"></i> Am I Late?</h5>
+        </button>
+      </div>
+      <div class="d-flex justify-content-center mb-2">
+        <button class="unone btn-ungu" onclick="window.open('tanyarandom/index.html')">
+          <h5 class="d-inline-flex"><i class="fas fa-comments gaya-icon"></i> Tanya Random</h5>
+        </button>
+      </div>
+      <div class="d-flex justify-content-center mb-2">
+        <button class="unone btn-ungu" onclick="window.open('truthordare/index.html')">
+          <h5 class="d-inline-flex"><i class="fas fa-theater-masks gaya-icon"></i> Truth or Dare</h5>
+        </button>
+      </div>
+    </div>
+    <!-- Footer Section -->
+    <div class="mb-3 text-center" style="color: #636363;">
+      <div><b>Projects by :</b> alamehan.github.io</div>
+    </div>
+  </div>
+
+  <!-- Script Numpang Pake di Page Gabut Solver -->
+  <script src="gabutsolver/library/js/jquery-3.4.1.slim.min.js"></script>
+  <script src="gabutsolver/library/js/popper.min.js"></script>
+  <script src="gabutsolver/library/js/bootstrap.min.js"></script>
+  <script src="gabutsolver/library/js/font-awesome.js"></script>
 </body>
+
 </html>
