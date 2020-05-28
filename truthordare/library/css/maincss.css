@@ -112,8 +112,14 @@ body {
 
 .tod-bg-1 {
   background: url("../../assets/kartu-truth.png");
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .tod-bg-2 {
   background: url("../../assets/kartu-dare.png");
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
 }
